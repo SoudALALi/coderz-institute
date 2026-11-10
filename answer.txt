@@ -1,0 +1,2 @@
+Browser tab title element:  <title>معهد coderz</title>
+Main heading element:   <h1>تعلّم البرمجة في معهد coderz</h1>
